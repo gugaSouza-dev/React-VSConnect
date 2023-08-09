@@ -57,7 +57,6 @@ function Home() {
 						</a>
 						<a className="header_botao_login" href="../Login/index.html">login</a>
 					</nav>
-					<div/>
 				</div>
 			</header>
 			<main id="main">
